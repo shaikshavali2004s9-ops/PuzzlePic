@@ -98,3 +98,5 @@ public class MainActivity extends Activity {
                 new LinearLayout.LayoutParams(0, 60, 1));
 
         root.addView(row2);
+            }
+    }
